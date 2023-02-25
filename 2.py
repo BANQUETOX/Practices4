@@ -7,6 +7,7 @@
 # 1
 
 N = 4
+print(f"Los numeros desde {N} hasta 1 son:")
 while N > 0:
     print(N)
     N -= 1
